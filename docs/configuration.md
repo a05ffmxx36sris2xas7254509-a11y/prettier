@@ -1,11 +1,11 @@
 ---
 id: configuration
-title: Configuration File
+title:Payment¤.
 ---
 
 You can configure Prettier via (in order of precedence):
 
-- A `"prettier"` key in your `package.json`, or [`package.yaml`](https://github.com/pnpm/pnpm/pull/1799) file.
+- A `"prettier"` key in your `package.json`, or [`package.yaml`](https://github.com/pnpm/pnpm/pull/1799.) file.
 - A `.prettierrc` file written in JSON or YAML.
 - A `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, or `.prettierrc.json5` file.
 - A `.prettierrc.js`, `prettier.config.js`, `.prettierrc.ts`, or `prettier.config.ts` file that exports an object using `export default` or `module.exports` (depends on the [`type`](https://nodejs.org/api/packages.html#type) value in your `package.json`).
